@@ -3,13 +3,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=Welcome!&desc=wisdom's&nbsp;GitHub&nbsp;👋&descSize=30&descAlignY=65&animation=fadeIn&fontAlignY=35)
 
 </div>
-<br>
 
 <img src="https://user-images.githubusercontent.com/104509621/226888051-4fd13136-9ebd-4bf3-beb1-b5519c0645c2.png" width="300" height="300" align="left"/>
 <br>
 <br>
-안녕하세요! 백엔드 개발자가 되고 싶은 전지혜입니다!<br>
-저의 작업공간에 오신걸 환영합니다!<br>
+<br>
+백엔드 개발자가 되고 싶은 전지혜입니다!<br>
+항상 배우는 자세로 개발하도록 하겠습니다
+<br>
+<br>
 
 
  ## CONTACT ME
@@ -21,6 +23,8 @@
  
 <br>
 <br>
+<br>
+
 
 ## SKILL 
 <br>
@@ -42,9 +46,12 @@
 
 
 ## MY GITHUB 
+<div align="center">
+ 
 ![wisdom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdom5565&show_icons=true&theme=transparent) &nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdom5565&layout=compact&theme=transparent)
 <br>
 <br>
+ </div>
  
 <div align="center"> 
   
