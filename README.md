@@ -1,19 +1,26 @@
 <div align="center"> 
  
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&height=250&text=Hello!&desc=wisdom's&nbsp;GitHub&nbsp;👋&descSize=30&descAlignY=70&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&text=Welcome!&desc=wisdom's&nbsp;GitHub&nbsp;👋&descSize=30&descAlignY=65&animation=fadeIn&fontAlignY=35)
 
-
-<br>
-(https://github.com/wisdom5565/wisdom5565/issues/1#issue-1635559739)
-
- 안녕하세요! 백엔드 개발자가 되고 싶은 전지혜입니다!<br>
- 방문해주셔서 감사합니다!😊
-<br> 
-<br>
 </div>
+<br>
+
+<img src="https://user-images.githubusercontent.com/104509621/226888051-4fd13136-9ebd-4bf3-beb1-b5519c0645c2.png" width="300" height="300" align="left"/>
+<br>
+<br>
+안녕하세요! 백엔드 개발자가 되고 싶은 전지혜입니다!<br>
+저의 작업공간에 오신걸 환영합니다!<br>
 
 
-
+ ## CONTACT ME
+ <div align="center">
+ 
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badg&logo=Gmail&logoColor=white&link=mailto:jiniminous00@gmail.com)](mailto:jiniminous00@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badg&logo=Naver&logoColor=white&link=mailto:wisdom5565@naver.com)](mailto:wisdom5565@naver.com) <a href="https://biblia00.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000?style=for-the-badg&logo=Tistory&logoColor=white"/></a>
+ 
+</div>
+ 
+<br>
+<br>
 
 ## SKILL 
 <br>
@@ -39,9 +46,9 @@
 <br>
 <br>
  
- 
- ## CONTACT ME
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiniminous00@gmail.com)](mailto:jiniminous00@gmail.com)
- <a href="https://biblia00.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000?style=flat-square&logo=Tistory&logoColor=white"/></a>
- 
+<div align="center"> 
+  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&desc=Thank&nbsp;you&nbsp;for&nbsp;visiting&descSize=30&descAlignY=70&animation=fadeIn&section=footer)
+
+</div>
 
