@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=300&section=header&text=Wisdom's Log %20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=random&height=500&text=Hi!%wisdom'sLog)
