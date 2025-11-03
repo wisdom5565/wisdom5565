@@ -14,10 +14,10 @@
 
 
  ## CONTACT ME
+ <br>
  <div align="center">
- 
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badg&logo=Gmail&logoColor=white&link=mailto:jiniminous00@gmail.com)](mailto:jiniminous00@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badg&logo=Naver&logoColor=white&link=mailto:wisdom5565@naver.com)](mailto:wisdom5565@naver.com) <a href="https://biblia00.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000?style=for-the-badg&logo=Tistory&logoColor=white"/></a>
- 
+  
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badg&logo=Gmail&logoColor=white&link=mailto:jiniminous00@gmail.com)](mailto:jiniminous00@gmail.com) [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badg&logo=Naver&logoColor=white&link=mailto:wisdom5565@naver.com)](mailto:wisdom5565@naver.com) 
 </div>
  
 <br>
@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"><br>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/>
- <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> 
+ <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
  
 
  </div>
