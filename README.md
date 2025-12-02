@@ -55,13 +55,13 @@
  
 
 
-## MY GITHUB 
+<!-- ## MY GITHUB 
 <div align="center">
  
 ![wisdom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wisdom5565&show_icons=true&theme=transparent) &nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisdom5565&layout=compact&theme=transparent)
 <br>
 <br>
- </div>
+ </div> -->
  
 <div align="center"> 
   
